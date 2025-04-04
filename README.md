@@ -26,7 +26,7 @@ The STL is an essential part of modern C++, but many developers use it without u
 ## Contributions
 Contributions are welcome! If you'd like to add improvements, follow these steps:
 1. Fork the repository.
-2. Create a new branch.
+2. Create a new branch
 3. Implement your changes and write tests.
 4. Submit a pull request.
 
