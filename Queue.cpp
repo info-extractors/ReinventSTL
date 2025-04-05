@@ -111,18 +111,20 @@ int main(){
     
     */
     
+    
+    
+    q.pop(); // Node poped
+    
+    cout << "Current queue:";
+    q.display(); // result 23 100 10000
+
     /*
-       
+       Actual structure 
       |   23  |
       |  100  | 
       | 10000 |
       
     */
-    
-    q.pop(); // Node poped
-    
-    cout << "Current queue:";
-    q.display();
     
     
     cout << "Front Node:"<<q.front() << endl; // result : 23
