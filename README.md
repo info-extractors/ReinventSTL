@@ -38,3 +38,4 @@ For any questions or discussions, feel free to reach out or open an issue.
 
 ---
 This is just a learning exercise to understand C++ fundamentals—let’s build together!
+EOF
