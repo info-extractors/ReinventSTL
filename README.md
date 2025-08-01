@@ -34,7 +34,7 @@ Contributions are welcome! If you'd like to add improvements, follow these steps
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
-For any questions or discussions, feel free to reach out or open an issue.
+For any questions or discussions, feel free to reach out or open an issue
 
 ---
 This is just a learning exercise to understand C++ fundamentals—let’s build together!
