@@ -17,7 +17,7 @@ This project is a humble attempt to rebuild the core functionality of the Standa
   - Basic error handling for STL-like operations
 
 ## Motivation
-The STL is an essential part of modern C++, but many developers use it without understanding how it works internally. By reconstructing a very simplified version, I gain insights into:
+The STL is an essential part of modern C++, but many developers use it without understanding how it works internally. By reconstructing a very simplified version, I gain insights into
 - Fundamental memory management concepts
 - Basic template metaprogramming
 - Performance trade-offs of different data structures
