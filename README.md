@@ -10,7 +10,7 @@ This project is a humble attempt to rebuild the core functionality of the Standa
   - Encapsulation, Inheritance, Polymorphism
 - **Iterators & Algorithms**
   - Simple iterator support for data structures
-  - Basic Sorting, Searching, and Utility functions
+  - Basic Sorting, Searching, and Utility function
 - **Memory Management**
   - Introduction to smart pointers and dynamic memory allocation
 - **Exception Handling**
